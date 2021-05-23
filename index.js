@@ -1,4 +1,7 @@
 // Add your Circle class here
-class circle{
+class Circle{
+  constructor(radius){
+    this.radius = radius;
+  }
   
 }
